@@ -46,7 +46,7 @@ If you use this repository, please cite the associated thesis and underlying res
 - **CPTAC (Clinical Proteomic Tumor Analysis Consortium):** [Edwards et al., 2015](https://doi.org/10.1038/nmeth.3257)  
 - **HPA (Human Protein Atlas):** [Uhlén et al., 2015](https://doi.org/10.1126/science.1260419)  
 - **dbDEMC (Database of Differentially Expressed miRNAs in human Cancers):** [Xu et al., 2022](https://doi.org/10.1093/nar/gkab1079)  
-- **Allergy scoping review (EAACI Task Force):** [Bianchini et al., 2025] *(preprint DOI: add when available)*  
+- **Allergy scoping review (EAACI Task Force):** DOI: [10.22541/au.174178285.56398310/v1](https://doi.org/10.22541/au.174178285.56398310/v1) 
 
 ---
 

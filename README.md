@@ -53,5 +53,5 @@ If you use this repository, please cite the associated thesis and underlying res
 ## Contact
 
 For questions, requests, or collaboration inquiries:  
-📧 Dr. Rocio Rebollido-Rios — rocio.rebollido-rios@uni-koeln.de  
-📧 Sezin Dogan — dgnsezin@gmail.com
+📧 Dr. Rocio Rebollido-Rios -> rocio.rebollido-rios@uni-koeln.de  
+📧 Sezin Dogan -> dgnsezin@gmail.com

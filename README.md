@@ -44,7 +44,7 @@ If you use this repository, please cite the associated thesis and underlying res
 
 - **TCGA (The Cancer Genome Atlas):** [Weinstein et al., 2013](https://doi.org/10.1038/ng.2764)  
 - **CPTAC (Clinical Proteomic Tumor Analysis Consortium):** [Edwards et al., 2015](https://doi.org/10.1021/pr501254j)  
-- **HPA (Human Protein Atlas):** [Uhlén et al., 2015](https://doi.org/10.1126/science.1260419)  
+- **HPA (Human Protein Atlas):** [Karlsson M et al., 2021](https://www.science.org/doi/10.1126/sciadv.abh2169)  
 - **dbDEMC (Database of Differentially Expressed miRNAs in human Cancers):** [Xu et al., 2022](https://doi.org/10.1093/nar/gkab1079)  
 - **Allergy position paper (Allergy-associated immune siganture):** DOI: [10.22541/au.174178285.56398310/v1](https://doi.org/10.22541/au.174178285.56398310/v1) 
 
